@@ -12,10 +12,8 @@
 
 .container{
     height: 100%;
-    /* container width can be max 1200px */
-    max-width: 1200px;  
-    /* left and right side margin will be equal i.e. conetent will be in center */
-    margin: 0 auto;
+    max-width: 1200px;  /* container width can be max 1200px */
+    margin: 0 auto; /*left and right side margin will be equal i.e. content will be in center */
     padding: 20px;
 }
 
