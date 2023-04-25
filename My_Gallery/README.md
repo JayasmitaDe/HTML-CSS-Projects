@@ -6,3 +6,8 @@
 <i>⭐ the repo if it helped you. </i>
 
 <strong>Check out the demo video:👀</strong>
+
+
+https://user-images.githubusercontent.com/94387756/234248911-fb1c3ef5-8a8d-41af-8457-586aff6cb294.mp4
+
+
